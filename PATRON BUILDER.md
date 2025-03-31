@@ -112,6 +112,5 @@ director.setBuilder(builder)
 director.constructReport()
 pdfReport = builder.getReport()
 
-![image](https://github.com/user-attachments/assets/8616102b-2692-41d3-8905-7db59686ee0c)
-
-
+```
+![image](https://github.com/user-attachments/assets/b7cc76fa-d949-417a-a595-bd5293e88a18)
